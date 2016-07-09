@@ -1,2 +1,2 @@
-Hello world
+Hell world
 Goodbye
